@@ -1,0 +1,16 @@
+F:\R56\C# .NET\Project_1279790\Project_1279790\bin\Debug\Project_1279790.exe.config
+F:\R56\C# .NET\Project_1279790\Project_1279790\bin\Debug\Project_1279790.exe
+F:\R56\C# .NET\Project_1279790\Project_1279790\bin\Debug\Project_1279790.pdb
+F:\R56\C# .NET\Project_1279790\Project_1279790\obj\Debug\Project_1279790.csproj.AssemblyReference.cache
+F:\R56\C# .NET\Project_1279790\Project_1279790\obj\Debug\Project_1279790.csproj.SuggestedBindingRedirects.cache
+F:\R56\C# .NET\Project_1279790\Project_1279790\obj\Debug\Project_1279790.csproj.CoreCompileInputs.cache
+F:\R56\C# .NET\Project_1279790\Project_1279790\obj\Debug\Project_1279790.exe
+F:\R56\C# .NET\Project_1279790\Project_1279790\obj\Debug\Project_1279790.pdb
+F:\Project_1279790\Project_1279790\bin\Debug\Project_1279790.exe.config
+F:\Project_1279790\Project_1279790\bin\Debug\Project_1279790.exe
+F:\Project_1279790\Project_1279790\bin\Debug\Project_1279790.pdb
+F:\Project_1279790\Project_1279790\obj\Debug\Project_1279790.csproj.AssemblyReference.cache
+F:\Project_1279790\Project_1279790\obj\Debug\Project_1279790.csproj.SuggestedBindingRedirects.cache
+F:\Project_1279790\Project_1279790\obj\Debug\Project_1279790.csproj.CoreCompileInputs.cache
+F:\Project_1279790\Project_1279790\obj\Debug\Project_1279790.exe
+F:\Project_1279790\Project_1279790\obj\Debug\Project_1279790.pdb
